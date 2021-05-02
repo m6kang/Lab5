@@ -9,4 +9,4 @@ LINK TO YOUR PUBLISHED SITE
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+https://github.com/m6kang/github-actions-for-ci/issues/7
