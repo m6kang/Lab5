@@ -5,7 +5,7 @@
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+https://m6kang.github.io/Lab5/
 
 ## Part 2:
 
